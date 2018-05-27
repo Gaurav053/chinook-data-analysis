@@ -1,1 +1,0 @@
-This project is about analyzing the chinook sales data.This project analyses the sales data for chinook and provides the insights for business
